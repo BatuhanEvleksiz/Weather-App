@@ -47,7 +47,7 @@ body{
     font-size: 20px;
     font-weight: 500;
     color: #06283D;
-    text-transform: capitalize;
+    text-transform: none;
 }
 
 .search-box button{
